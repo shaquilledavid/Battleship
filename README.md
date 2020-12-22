@@ -9,19 +9,11 @@ A player has four ships to strategically place on their side of the game board. 
 
 Author Info
 ---
-CSC290H5 Group - ShotCallers
-
 *Team Members*
 
 Parham Fartoot, 1004625355, fartootp
 
 Shaquille David, 1001566931, davidsh4
-
-Neraj Manamperi, 1004275394, manampe4
-
-Sin Hwan Lee, 1001666084, leesin2
-
-Li Rui, 1004056246, lirui31
 
 ---
 
